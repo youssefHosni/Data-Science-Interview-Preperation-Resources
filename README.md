@@ -1,4 +1,4 @@
-# Data-Science-Interview-Preparation
+# Data-Science-Interview-Preparation-Resources
 Resoruce to help you to prepare for your comming data science interviews
 
 ## Data Science Hiring Process ##
