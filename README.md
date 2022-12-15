@@ -19,7 +19,7 @@ Resoruce to help you to prepare for your comming data science interviews
 * [How To Present Past Projects In A Data Science Behavioral Interview](https://medium.com/geekculture/how-to-present-past-projects-in-a-data-science-behavioral-interview-6c783a299ae6?sk=550f8f3284df6e7a241503eb58d72ab3)
 * [What To Ask At The End of A Data Science Behavioral Interview?](https://medium.com/geekculture/what-to-ask-at-the-end-of-a-data-science-behavioral-interview-4bfe84e8b0f7?sk=07eb3e0da56b9d41cccb256c75bd7a43)
 * [Avoid These 3 Mistakes In Data Science Behavioral Interviews](https://medium.com/geekculture/avoid-these-3-mistakes-in-data-science-behavioral-interviews-bd7df699d8eb?sk=5db1167baef4ef7d969077500eaf2d71)
-* [Top 50+ Behavioral Data Science Interview Questions]()
+* [Top 50+ Behavioral Data Science Interview Questions](https://medium.com/geekculture/top-50-behavioral-data-science-interview-questions-a038787ec7bf?sk=9c3f5aff6ec2312b8da0651cf90e6920)
 
 
 ## Techanical Interview Preparation  ##
