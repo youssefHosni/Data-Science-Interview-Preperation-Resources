@@ -26,6 +26,7 @@ Resoruce to help you to prepare for your comming data science interviews
 
 ## Techanical Interview Preparation  ##
 * [You should Review These Topics Before Data Science Technical Interview](https://medium.com/geekculture/you-should-review-these-topics-before-data-science-technical-interview-fed456b60aea)
+* [Types of Machine Learning Questions In A Data Science Interview & How To Prepare for Them](https://medium.com/geekculture/types-of-machine-learning-questions-in-a-data-science-interview-how-to-prepare-for-them-1bc815c9421?sk=e4a4c49105668ee56f47c86f6fde1437)
 * [Machine Learning Interview Questions & Answers for Data Scientists](https://youssefraafat57.medium.com/machine-learning-interview-questions-answers-7265e34d07cc?sk=8557ed22c8516d403062e344a1151bd7)
 * [Deep Learning Interview Questions & Answers for Data Scientists](https://youssefraafat57.medium.com/deep-learning-interview-questions-answers-439163d3fc02?sk=d391396d49c7e2cac3048b1ab28760d4)
 * [Probability Interview Questions & Answers for Data Scientists](https://youssefraafat57.medium.com/probability-interview-questions-answers-1ee38bd7375d?sk=ad3dd1e34af90dac5505747132b718d5)
