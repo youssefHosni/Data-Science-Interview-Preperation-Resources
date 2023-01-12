@@ -8,6 +8,7 @@ Resoruce to help you to prepare for your comming data science interviews
 #### Writing Standing out Resume ####
 * [How I Got 15 More Data Science Interviews in One Month?](https://medium.com/geekculture/i-got-15-more-data-science-interviews-with-these-5-tips-87ed03fdcfc7?sk=58484d64c38ee391c3586319b751aa9a)
 #### How to Build Standing Out Porotflio ####
+* [How To Build A Data Science Portfolio That Will Land You A Job?]()
 * [Hiring Manager Tips To Land Your First Data Science Job](https://medium.com/geekculture/hiring-manager-tips-to-land-your-first-data-science-job-506dbe1b0f78?sk=00fe520939fe4d841b80135defdf8738)
 * [Guided Projects: The Ultimate Way to Learn Data Science](https://medium.com/mlearning-ai/guided-projects-the-ultimate-way-to-learn-data-science-4478f3365045?sk=a52c778862cee81befa82e03722e5084)
 #### Getting Internal Referal ####
