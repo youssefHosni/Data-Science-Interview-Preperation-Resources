@@ -6,6 +6,7 @@ Resoruce to help you to prepare for your comming data science interviews
 
 ## Resume & Portoflio Preparation ##
 #### Writing Standing out Resume ####
+* [How to Build a Data Science Resume That Gets You Interviews?](https://medium.com/geekculture/how-to-build-a-standing-out-resume-that-gets-you-data-science-interviews-a6f2972f4d92?sk=509be71fda26e025bd7f1b97b000011f)
 * [How I Got 15 More Data Science Interviews in One Month?](https://medium.com/geekculture/i-got-15-more-data-science-interviews-with-these-5-tips-87ed03fdcfc7?sk=58484d64c38ee391c3586319b751aa9a)
 #### How to Build Standing Out Porotflio ####
 * [How To Build A Data Science Portfolio That Will Land You A Job?]()
@@ -38,5 +39,3 @@ Resoruce to help you to prepare for your comming data science interviews
 ### ML Coding ###
 
 * [Crack the Machine Learning Coding Questions](https://medium.com/geekculture/crack-the-machine-learning-coding-questions-ac8ecc2af90f?sk=581daa1b5f145f524812c8e586b8763b)
-* [Building A Recurrent Neural Network From Scratch In Python](https://pub.towardsai.net/building-a-recurrent-neural-network-from-scratch-in-python-3ad244b1054f?sk=3fcfd18bbb18fd280826c64b547f130e)
-* [Building An LSTM Model From Scratch In Python](https://pub.towardsai.net/building-a-lstm-from-scratch-in-python-1dedd89de8fe?sk=30c823c65e8135721f775b0c1e893ad9)
