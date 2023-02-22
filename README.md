@@ -9,7 +9,7 @@ Resoruce to help you to prepare for your coming  data science interviews
 * [How to Build a Data Science Resume That Gets You Interviews?](https://medium.com/geekculture/how-to-build-a-standing-out-resume-that-gets-you-data-science-interviews-a6f2972f4d92?sk=509be71fda26e025bd7f1b97b000011f)
 * [How I Got 15 More Data Science Interviews in One Month?](https://medium.com/geekculture/i-got-15-more-data-science-interviews-with-these-5-tips-87ed03fdcfc7?sk=58484d64c38ee391c3586319b751aa9a)
 #### How to Build Standing Out Porotflio ####
-* [How To Build A Data Science Portfolio That Will Land You A Job?]()
+* [How To Build A Data Science Portfolio That Will Land You A Job?](https://pub.towardsai.net/how-to-build-a-data-science-portfolio-that-will-land-you-a-job-b2120d8f2dc5?sk=96f0409a6ca33674b79933ea651fe16c)
 * [Hiring Manager Tips To Land Your First Data Science Job](https://medium.com/geekculture/hiring-manager-tips-to-land-your-first-data-science-job-506dbe1b0f78?sk=00fe520939fe4d841b80135defdf8738)
 * [Guided Projects: The Ultimate Way to Learn Data Science](https://medium.com/mlearning-ai/guided-projects-the-ultimate-way-to-learn-data-science-4478f3365045?sk=a52c778862cee81befa82e03722e5084)
 #### Getting Internal Referal ####
