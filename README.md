@@ -1,5 +1,5 @@
 # Data-Science-Interview-Preparation-Resources
-Resoruce to help you to prepare for your comming data science interviews
+Resoruce to help you to prepare for your coming  data science interviews
 
 ## Data Science Hiring Process ##
 * [Overview of data science hiring process](https://medium.com/geekculture/overview-of-the-data-science-hiring-process-454230b434ff?sk=fec5823ad78a4af2b7a06a787b4ac60d)
