@@ -27,15 +27,24 @@ Resoruce to help you to prepare for your comming data science interviews
 
 ## Techanical Interview Preparation  ##
 * [You should Review These Topics Before Data Science Technical Interview](https://medium.com/geekculture/you-should-review-these-topics-before-data-science-technical-interview-fed456b60aea)
-* [Types of Machine Learning Questions In A Data Science Interview & How To Prepare for Them](https://medium.com/geekculture/types-of-machine-learning-questions-in-a-data-science-interview-how-to-prepare-for-them-1bc815c9421?sk=e4a4c49105668ee56f47c86f6fde1437)
-* [Ace the SQL Questions in Data Science & Analysis Technical Interview]()
-* [Machine Learning Interview Questions & Answers for Data Scientists](https://youssefraafat57.medium.com/machine-learning-interview-questions-answers-7265e34d07cc?sk=8557ed22c8516d403062e344a1151bd7)
-* [Deep Learning Interview Questions & Answers for Data Scientists](https://youssefraafat57.medium.com/deep-learning-interview-questions-answers-439163d3fc02?sk=d391396d49c7e2cac3048b1ab28760d4)
-* [Probability Interview Questions & Answers for Data Scientists](https://youssefraafat57.medium.com/probability-interview-questions-answers-1ee38bd7375d?sk=ad3dd1e34af90dac5505747132b718d5)
-* [Statistics Interview Questions & Answers for Data Scientists](https://youssefraafat57.medium.com/statistics-interview-questions-answers-55e2bd13a96b?sk=9d0c46a495f9cac13d691b948e938449)
-* [Python Interview Questions & Answers for Data Scientists](https://youssefraafat57.medium.com/python-interview-questions-answers-740444cd8897?sk=78d54b3cdfdbbedda9cc09429c71decc)
-* [SQL & Database Interview Questions & Answers for Data Scientists](https://youssefraafat57.medium.com/sql-database-interview-questions-answers-67a93a79a564?sk=f621899beae4eb9093942f3d1289ba6d)
 
-### ML Coding ###
+### Machine Learning Questions ###
 
 * [Crack the Machine Learning Coding Questions](https://medium.com/geekculture/crack-the-machine-learning-coding-questions-ac8ecc2af90f?sk=581daa1b5f145f524812c8e586b8763b)
+* [Types of Machine Learning Questions In A Data Science Interview & How To Prepare for Them](https://medium.com/geekculture/types-of-machine-learning-questions-in-a-data-science-interview-how-to-prepare-for-them-1bc815c9421?sk=e4a4c49105668ee56f47c86f6fde1437)
+* [Machine Learning Interview Questions & Answers for Data Scientists](https://youssefraafat57.medium.com/machine-learning-interview-questions-answers-7265e34d07cc?sk=8557ed22c8516d403062e344a1151bd7)
+* [Deep Learning Interview Questions & Answers for Data Scientists](https://youssefraafat57.medium.com/deep-learning-interview-questions-answers-439163d3fc02?sk=d391396d49c7e2cac3048b1ab28760d4)
+
+
+### SQL Questions ###
+* [Ace the SQL Questions in Data Science & Analysis Technical Interview](https://medium.com/geekculture/ace-the-sql-questions-in-data-science-analysis-technical-interview-3bed41cc827c?sk=df19403c344d65ad1c62ff929b9170c2)
+* [SQL & Database Interview Questions & Answers for Data Scientists](https://youssefraafat57.medium.com/sql-database-interview-questions-answers-67a93a79a564?sk=f621899beae4eb9093942f3d1289ba6d)
+[6 Free Resources For SQL Interview Preparation](https://medium.com/geekculture/6-free-resources-for-sql-interview-preparation-b184195b28fb?sk=4cc8bf913607ca699ef0872ca1f38558)
+
+### Programming Questions ### 
+* [Python Interview Questions & Answers for Data Scientists](https://youssefraafat57.medium.com/python-interview-questions-answers-740444cd8897?sk=78d54b3cdfdbbedda9cc09429c71decc)
+
+### Mathematics Questions ### 
+* [Probability Interview Questions & Answers for Data Scientists](https://youssefraafat57.medium.com/probability-interview-questions-answers-1ee38bd7375d?sk=ad3dd1e34af90dac5505747132b718d5)
+* [Statistics Interview Questions & Answers for Data Scientists](https://youssefraafat57.medium.com/statistics-interview-questions-answers-55e2bd13a96b?sk=9d0c46a495f9cac13d691b948e938449)
+
