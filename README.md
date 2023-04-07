@@ -3,6 +3,7 @@ Resoruce to help you to prepare for your coming  data science interviews
 
 ## Data Science Hiring Process ##
 * [Overview of data science hiring process](https://medium.com/geekculture/overview-of-the-data-science-hiring-process-454230b434ff?sk=fec5823ad78a4af2b7a06a787b4ac60d)
+* [3 Resources to Get & Pass Your First Data Science Interview](https://medium.com/geekculture/3-resources-to-get-pass-your-first-data-science-interview-6c81045bfe60?sk=6fc787b3e59c7a6adbf6740c1bf31bd2)
 
 ## Resume & Portoflio Preparation ##
 #### Writing Standing out Resume ####
