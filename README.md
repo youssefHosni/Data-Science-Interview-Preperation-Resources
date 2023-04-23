@@ -12,6 +12,8 @@ Resoruce to help you to prepare for your coming  data science interviews
 * [How I Got 15 More Data Science Interviews in One Month?](https://medium.com/geekculture/i-got-15-more-data-science-interviews-with-these-5-tips-87ed03fdcfc7?sk=58484d64c38ee391c3586319b751aa9a)
 
 #### How to Build Standing Out Porotflio ####
+* [The Importance of Having a Portfolio As a Data Scientist](https://pub.towardsai.net/the-importance-of-having-a-portfolio-as-a-data-scientist-94c0ef53be5e?sk=1c52a6cef0061c126db498cd3a6ec9f6)
+* [Want to Stand Out in Data Science? Don’t Make These Portfolio Mistakes!](https://pub.towardsai.net/want-to-stand-out-in-data-science-dont-make-these-portfolio-mistakes-f568b5174842?sk=a837f7b0626a9ca2f664f60077f7fc7b)
 * [How To Build A Data Science Portfolio That Will Land You A Job?](https://pub.towardsai.net/how-to-build-a-data-science-portfolio-that-will-land-you-a-job-b2120d8f2dc5?sk=96f0409a6ca33674b79933ea651fe16c)
 * [Hiring Manager Tips To Land Your First Data Science Job](https://medium.com/geekculture/hiring-manager-tips-to-land-your-first-data-science-job-506dbe1b0f78?sk=00fe520939fe4d841b80135defdf8738)
 * [Guided Projects: The Ultimate Way to Learn Data Science](https://medium.com/mlearning-ai/guided-projects-the-ultimate-way-to-learn-data-science-4478f3365045?sk=a52c778862cee81befa82e03722e5084)
