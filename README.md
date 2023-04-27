@@ -17,6 +17,8 @@ Resoruce to help you to prepare for your coming  data science interviews
 * [How To Build A Data Science Portfolio That Will Land You A Job?](https://pub.towardsai.net/how-to-build-a-data-science-portfolio-that-will-land-you-a-job-b2120d8f2dc5?sk=96f0409a6ca33674b79933ea651fe16c)
 * [Hiring Manager Tips To Land Your First Data Science Job](https://medium.com/geekculture/hiring-manager-tips-to-land-your-first-data-science-job-506dbe1b0f78?sk=00fe520939fe4d841b80135defdf8738)
 * [Guided Projects: The Ultimate Way to Learn Data Science](https://medium.com/mlearning-ai/guided-projects-the-ultimate-way-to-learn-data-science-4478f3365045?sk=a52c778862cee81befa82e03722e5084)
+* [10 End-to-End Guided Data Science Projects to Build Your Portfolio](https://pub.towardsai.net/10-end-to-end-guided-data-science-projects-to-build-your-portfolio-b7b9047fe6c9?sk=57b9ac02177d606a51cc22f43a817f5b)
+* [Master Computer Vision and Boost Your Portfolio with These 10 End-to-End Projects](https://medium.com/geekculture/master-computer-vision-and-boost-your-portfolio-with-these-10-end-to-end-projects-537fcd20db7c?sk=75d35d8c0554b4ba010814d65fa16e59)
 
 #### Getting Internal Referal ####
 * [Three Methods To Get Internal Referrals For Data Science Positions](https://medium.com/geekculture/three-graduated-methods-to-get-internal-referrals-for-data-science-positions-901a9c940ea3?sk=871542454d9ba4e9f4f6d61bca5eb77f)
