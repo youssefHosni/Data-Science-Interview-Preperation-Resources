@@ -19,6 +19,7 @@ Resoruce to help you to prepare for your coming  data science interviews
 * [Guided Projects: The Ultimate Way to Learn Data Science](https://medium.com/mlearning-ai/guided-projects-the-ultimate-way-to-learn-data-science-4478f3365045?sk=a52c778862cee81befa82e03722e5084)
 * [10 End-to-End Guided Data Science Projects to Build Your Portfolio](https://pub.towardsai.net/10-end-to-end-guided-data-science-projects-to-build-your-portfolio-b7b9047fe6c9?sk=57b9ac02177d606a51cc22f43a817f5b)
 * [Master Computer Vision and Boost Your Portfolio with These 10 End-to-End Projects](https://medium.com/geekculture/master-computer-vision-and-boost-your-portfolio-with-these-10-end-to-end-projects-537fcd20db7c?sk=75d35d8c0554b4ba010814d65fa16e59)
+* [Build Impressive Data Science Projects: 10 Websites with Open Datasets to Build Your Portfolio](https://pub.towardsai.net/build-impressive-data-science-projects-10-websites-with-open-datasets-to-build-your-portfolio-af0ff55b4d1a?sk=beb30e6ab3fb2976e7184831404a31fe)
 
 #### Getting Internal Referal ####
 * [Three Methods To Get Internal Referrals For Data Science Positions](https://medium.com/geekculture/three-graduated-methods-to-get-internal-referrals-for-data-science-positions-901a9c940ea3?sk=871542454d9ba4e9f4f6d61bca5eb77f)
