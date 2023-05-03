@@ -45,12 +45,13 @@ Resoruce to help you to prepare for your coming  data science interviews
 * [Deep Learning Interview Questions & Answers for Data Scientists](https://youssefraafat57.medium.com/deep-learning-interview-questions-answers-439163d3fc02?sk=d391396d49c7e2cac3048b1ab28760d4)
 
 
-### SQL Questions ###
-* [13 SQL Statements for 90% of Your Data Science Tasks](https://levelup.gitconnected.com/13-sql-statements-for-90-of-your-data-science-tasks-27902996dc2b?sk=8955868e62f09f1510d5e09f22dcd506)
+### SQL Interview Preperation ###
 * [Ace the SQL Questions in Data Science & Analysis Technical Interview](https://medium.com/geekculture/ace-the-sql-questions-in-data-science-analysis-technical-interview-3bed41cc827c?sk=df19403c344d65ad1c62ff929b9170c2)
+* [13 SQL Statements for 90% of Your Data Science Tasks](https://levelup.gitconnected.com/13-sql-statements-for-90-of-your-data-science-tasks-27902996dc2b?sk=8955868e62f09f1510d5e09f22dcd506)
 * [Unlocking the Power of SQL: How to Ace Top N Problem Questions in Interviews](https://medium.com/geekculture/unlocking-the-power-of-sql-how-to-ace-top-n-problem-questions-in-interviews-cf525901228a?sk=2c5e9481903e0c6aff8f78cfc2c8d2af)
 * [How To Ace the SQL Ratio Problems In Data Science Interviews](https://medium.com/geekculture/how-to-ace-the-sql-ratio-problems-in-data-science-interviews-c95395acf038?sk=b6356e4b98cd8504952f404752d11ea4)
-* [Cracking the SQL Window Function Coding Questions]()
+* [SQL Window Functions: Simplifying Complex Queries for Efficient Data Analysis](https://levelup.gitconnected.com/sql-window-functions-simplifying-complex-queries-for-efficient-data-analysis-2aaf98562f43?sk=7ef29036d4ff41914509c664349415bc)
+* [Cracking the SQL Window Function Coding Questions](https://levelup.gitconnected.com/cracking-the-sql-window-function-coding-questions-ac82cb6e4155?sk=69476694ed1eca5f17aaa79cb28255fa)
 * [SQL & Database Interview Questions & Answers for Data Scientists](https://youssefraafat57.medium.com/sql-database-interview-questions-answers-67a93a79a564?sk=f621899beae4eb9093942f3d1289ba6d)
 * [6 Free Resources For SQL Interview Preparation](https://medium.com/geekculture/6-free-resources-for-sql-interview-preparation-b184195b28fb?sk=4cc8bf913607ca699ef0872ca1f38558)
 
