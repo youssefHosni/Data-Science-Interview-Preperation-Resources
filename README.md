@@ -59,6 +59,7 @@ Resoruce to help you to prepare for your coming  data science interviews
 * [Python Interview Questions & Answers for Data Scientists](https://youssefraafat57.medium.com/python-interview-questions-answers-740444cd8897?sk=78d54b3cdfdbbedda9cc09429c71decc)
 
 ### Mathematics Questions ### 
+* [Mastering These 5 Statistics Concepts Will Boost Your Success in Data Science Interviews]()
 * [Probability Interview Questions & Answers for Data Scientists](https://youssefraafat57.medium.com/probability-interview-questions-answers-1ee38bd7375d?sk=ad3dd1e34af90dac5505747132b718d5)
 * [Statistics Interview Questions & Answers for Data Scientists](https://youssefraafat57.medium.com/statistics-interview-questions-answers-55e2bd13a96b?sk=9d0c46a495f9cac13d691b948e938449)
 
