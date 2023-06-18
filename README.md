@@ -21,6 +21,7 @@ Resoruce to help you to prepare for your coming  data science interviews
 * [Master Computer Vision and Boost Your Portfolio with These 10 End-to-End Projects](https://medium.com/geekculture/master-computer-vision-and-boost-your-portfolio-with-these-10-end-to-end-projects-537fcd20db7c?sk=75d35d8c0554b4ba010814d65fa16e59)
 * [Build Impressive Data Science Projects: 10 Websites with Open Datasets to Build Your Portfolio](https://pub.towardsai.net/build-impressive-data-science-projects-10-websites-with-open-datasets-to-build-your-portfolio-af0ff55b4d1a?sk=beb30e6ab3fb2976e7184831404a31fe)
 * [5 Game-Changing Free Tools to Enhance Your Data Science Portfolio](https://pub.towardsai.net/5-game-changing-free-tools-to-enhance-your-data-science-portfolio-7b2335dc5558?sk=ef3a52908b3e1d72b21ababef0695ac9)
+* [Building Industry Level Data Science Projects: A Step-by-Step Guide](https://pub.towardsai.net/building-industry-level-data-science-projects-a-step-by-step-guide-aeef0efb39d8?sk=86a5d44456875503616f8c70826c9e69)
 
 #### Getting Internal Referal ####
 * [Three Methods To Get Internal Referrals For Data Science Positions](https://medium.com/geekculture/three-graduated-methods-to-get-internal-referrals-for-data-science-positions-901a9c940ea3?sk=871542454d9ba4e9f4f6d61bca5eb77f)
