@@ -1,17 +1,17 @@
 # Data-Science-Interview-Preparation-Resources
-Resoruce to help you to prepare for your coming  data science interviews
+Resource to help you to prepare for your coming  data science interviews
 
 ## Data Science Hiring Process ##
 * [Overview of data science hiring process](https://medium.com/geekculture/overview-of-the-data-science-hiring-process-454230b434ff?sk=fec5823ad78a4af2b7a06a787b4ac60d)
 * [3 Resources to Get & Pass Your First Data Science Interview](https://medium.com/geekculture/3-resources-to-get-pass-your-first-data-science-interview-6c81045bfe60?sk=6fc787b3e59c7a6adbf6740c1bf31bd2)
 
 ## Resume & Portoflio Preparation ##
-#### Writing Standing out Resume ####
+#### Writing Standing Out Resume ####
 * [How to Build a Data Science Resume That Gets You Interviews?](https://medium.com/geekculture/how-to-build-a-standing-out-resume-that-gets-you-data-science-interviews-a6f2972f4d92?sk=509be71fda26e025bd7f1b97b000011f)
 * [Crafting the Perfect Data Science Resume: 10 Common Mistakes to Steer Clear of](https://medium.com/geekculture/crafting-the-perfect-data-science-resume-10-common-mistakes-to-steer-clear-of-9c85cc0fe562?sk=0931c73cff1a4836566a0a0b2c60d7f7)
 * [How I Got 15 More Data Science Interviews in One Month?](https://medium.com/geekculture/i-got-15-more-data-science-interviews-with-these-5-tips-87ed03fdcfc7?sk=58484d64c38ee391c3586319b751aa9a)
 
-#### How to Build Standing Out Portfolio ####
+#### How to Build a Standing Out Portfolio ####
 * [The Importance of Having a Portfolio As a Data Scientist](https://pub.towardsai.net/the-importance-of-having-a-portfolio-as-a-data-scientist-94c0ef53be5e?sk=1c52a6cef0061c126db498cd3a6ec9f6)
 * [Want to Stand Out in Data Science? Don’t Make These Portfolio Mistakes!](https://pub.towardsai.net/want-to-stand-out-in-data-science-dont-make-these-portfolio-mistakes-f568b5174842?sk=a837f7b0626a9ca2f664f60077f7fc7b)
 * [How To Build A Data Science Portfolio That Will Land You A Job?](https://pub.towardsai.net/how-to-build-a-data-science-portfolio-that-will-land-you-a-job-b2120d8f2dc5?sk=96f0409a6ca33674b79933ea651fe16c)
@@ -36,7 +36,7 @@ Resoruce to help you to prepare for your coming  data science interviews
 * [Top 50+ Behavioral Data Science Interview Questions](https://medium.com/geekculture/top-50-behavioral-data-science-interview-questions-a038787ec7bf?sk=9c3f5aff6ec2312b8da0651cf90e6920)
 
 
-## Techanical Interview Preparation  ##
+## Technical Interview Preparation  ##
 * [You should Review These Topics Before Data Science Technical Interview](https://medium.com/geekculture/you-should-review-these-topics-before-data-science-technical-interview-fed456b60aea)
 
 ### Machine Learning Questions ###
@@ -47,7 +47,7 @@ Resoruce to help you to prepare for your coming  data science interviews
 * [Deep Learning Interview Questions & Answers for Data Scientists](https://youssefraafat57.medium.com/deep-learning-interview-questions-answers-439163d3fc02?sk=d391396d49c7e2cac3048b1ab28760d4)
 
 
-### SQL Interview Preperation ###
+### SQL Interview Preparation ###
 * [Ace the SQL Questions in Data Science & Analysis Technical Interview](https://medium.com/geekculture/ace-the-sql-questions-in-data-science-analysis-technical-interview-3bed41cc827c?sk=df19403c344d65ad1c62ff929b9170c2)
 * [13 SQL Statements for 90% of Your Data Science Tasks](https://levelup.gitconnected.com/13-sql-statements-for-90-of-your-data-science-tasks-27902996dc2b?sk=8955868e62f09f1510d5e09f22dcd506)
 * [Unlocking the Power of SQL: How to Ace Top N Problem Questions in Interviews](https://medium.com/geekculture/unlocking-the-power-of-sql-how-to-ace-top-n-problem-questions-in-interviews-cf525901228a?sk=2c5e9481903e0c6aff8f78cfc2c8d2af)
