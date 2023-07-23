@@ -1,7 +1,14 @@
 # Data-Science-Interview-Preparation-Resources
 Resources to help you prepare for your coming  data science interviews
+[![GitHub license](https://img.shields.io/github/license/youssefHosni/Data-Science-Interview-Preperation-Resources.svg)](https://github.com/youssefHosni/Data-Science-Interview-Preperation-Resources/blob/master/LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/youssefHosni/Data-Science-Interview-Preperation-Resources.svg)](https://GitHub.com/youssefHosni/Data-Science-Interview-Preperation-Resources/graphs/contributors/)
+[![GitHub issues](https://img.shields.io/github/issues/youssefHosni/Data-Science-Interview-Preperation-Resources.svg)](https://GitHub.com/youssefHosni/Data-Science-Interview-Preperation-Resources/issues/)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/youssefHosni/Data-Science-Interview-Preperation-Resources.svg)](https://GitHub.com/youssefHosni/Data-Science-Interview-Preperation-Resources/pulls/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-
+[![GitHub watchers](https://img.shields.io/github/watchers/youssefHosni/Data-Science-Interview-Preperation-Resources.svg?style=social&label=Watch)](https://GitHub.com/youssefHosni/Data-Science-Interview-Preperation-Resources/watchers/)
+[![GitHub forks](https://img.shields.io/github/forks/youssefHosni/Data-Science-Interview-Preperation-Resources.svg?style=social&label=Fork)](https://GitHub.com/youssefHosni/Data-Science-Interview-Preperation-Resources/network/)
+[![GitHub stars](https://img.shields.io/github/stars/youssefHosni/Data-Science-Interview-Preperation-Resources.svg?style=social&label=Star)](https://GitHub.com/youssefHosni/Data-Science-Interview-Preperation-Resources/stargazers/)
 
 ![alt_text](https://github.com/youssefHosni/Data-Science-Interview-Preperation-Resources/blob/main/1_oBXc6bL0snzBYweW_qIVSg.jpg)
 
