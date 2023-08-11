@@ -77,5 +77,6 @@ A curated list of resources to help you prepare for your next data science inter
 * [Mastering These 5 Statistics Concepts Will Boost Your Success in Data Science Interviews]()
 * [Mastering Hypothesis Testing for Data Science Interviews](https://medium.com/mlearning-ai/mastering-hypothesis-testing-for-data-science-interviews-6d1465001518)
 * [Probability Interview Questions & Answers for Data Scientists](https://youssefraafat57.medium.com/probability-interview-questions-answers-1ee38bd7375d?sk=ad3dd1e34af90dac5505747132b718d5)
+* [Mastering A/B testing for Data Science Interviews: Introduction to A/B Testing](https://pub.towardsai.net/mastering-a-b-testing-for-data-science-interviews-introduction-to-a-b-testing-fc48fa6e4df7?sk=c0e0bd8fd956d6a3225d77f2ba353847)
 * [Statistics Interview Questions & Answers for Data Scientists](https://youssefraafat57.medium.com/statistics-interview-questions-answers-55e2bd13a96b?sk=9d0c46a495f9cac13d691b948e938449)
 
