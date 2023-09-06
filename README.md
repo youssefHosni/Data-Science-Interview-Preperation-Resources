@@ -59,7 +59,7 @@ A curated list of resources to help you prepare for your next data science inter
 * [Types of Machine Learning Questions In A Data Science Interview & How To Prepare for Them](https://medium.com/geekculture/types-of-machine-learning-questions-in-a-data-science-interview-how-to-prepare-for-them-1bc815c9421?sk=e4a4c49105668ee56f47c86f6fde1437)
 * [Machine Learning Interview Questions & Answers for Data Scientists](https://youssefraafat57.medium.com/machine-learning-interview-questions-answers-7265e34d07cc?sk=8557ed22c8516d403062e344a1151bd7)
 * [Deep Learning Interview Questions & Answers for Data Scientists](https://youssefraafat57.medium.com/deep-learning-interview-questions-answers-439163d3fc02?sk=d391396d49c7e2cac3048b1ab28760d4)
-
+* [Top Large Language Models (LLMs) Interview Questions & Answers](https://levelup.gitconnected.com/top-large-language-models-llms-interview-questions-answers-d7b83f94c4e?sk=ba9875db71eb42aa0c5fa717f2dd7bd0)
 
 ### SQL Interview Preparation ###
 * [Ace the SQL Questions in Data Science & Analysis Technical Interview](https://medium.com/geekculture/ace-the-sql-questions-in-data-science-analysis-technical-interview-3bed41cc827c?sk=df19403c344d65ad1c62ff929b9170c2)
