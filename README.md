@@ -76,6 +76,7 @@ A curated list of resources to help you prepare for your next data science inter
 * [6 Free Resources For SQL Interview Preparation](https://medium.com/geekculture/6-free-resources-for-sql-interview-preparation-b184195b28fb?sk=4cc8bf913607ca699ef0872ca1f38558)
 
 ### Programming Questions ### 
+* [5 Python Tips for Acing Data Science Coding Interview](https://levelup.gitconnected.com/5-python-tips-for-acing-data-science-coding-interview-d6c5555035fb?sk=d0e4a3cbc761751b7c90c698a58e7790)
 * [Python Interview Questions & Answers for Data Scientists](https://youssefraafat57.medium.com/python-interview-questions-answers-740444cd8897?sk=78d54b3cdfdbbedda9cc09429c71decc)
 
 ### Mathematics Questions ### 
