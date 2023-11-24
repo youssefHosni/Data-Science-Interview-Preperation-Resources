@@ -77,6 +77,8 @@ A curated list of resources to help you prepare for your next data science inter
 
 ### Programming Questions ### 
 * [5 Python Tips for Acing Data Science Coding Interview](https://levelup.gitconnected.com/5-python-tips-for-acing-data-science-coding-interview-d6c5555035fb?sk=d0e4a3cbc761751b7c90c698a58e7790)
+* [Foundations of Data Structures: Essential Concepts for Data Science Coding Interviews [Part 1]]()
+* [Foundations of Data Structures: Essential Concepts for Data Science Coding Interviews [Part 2]]()
 * [Python Interview Questions & Answers for Data Scientists](https://youssefraafat57.medium.com/python-interview-questions-answers-740444cd8897?sk=78d54b3cdfdbbedda9cc09429c71decc)
 
 ### Mathematics Questions ### 
