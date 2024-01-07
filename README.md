@@ -80,6 +80,8 @@ A curated list of resources to help you prepare for your next data science inter
 * [Foundations of Data Structures: Essential Concepts for Data Science Coding Interviews [Part 1]](https://medium.com/gitconnected/foundations-of-data-structures-essential-concepts-for-data-science-coding-interviews-part-1-fc4412ecf008?sk=ba672536815cd227875f9cf14b9d385d)
 * [Foundations of Data Structures: Essential Concepts for Data Science Coding Interviews [Part 2]](https://medium.com/gitconnected/foundations-of-data-structures-essential-concepts-for-data-science-coding-interviews-part-2-cb237ee5f7d3?sk=7cc95df185232a81f3487c20574fad42)
 * [Top Important Python Questions for Data Science Interviews [Conceptual Questions]](https://medium.com/gitconnected/top-important-python-questions-for-data-science-interviews-conceptual-questions-a9875c5c5e7e?sk=f66352536f6cac6313c55a7b98592ca6)
+* [Top Important Python Questions for Data Science Interviews [Data Cleaning and Preprocessing]](https://levelup.gitconnected.com/top-important-python-questions-for-data-science-interviews-data-cleaning-and-preprocessing-aee225186a49?sk=eedd3b88976ca85243929af512977f42)
+* [Top Important Python Questions for Data Science Interviews [Machine & Deep Learning ]](https://levelup.gitconnected.com/top-important-python-questions-for-data-science-interviews-machine-deep-learning-77a784a35d5b?sk=4864e9c88f96bbf87304960deb93d698)
 * [Python Interview Questions & Answers for Data Scientists](https://youssefraafat57.medium.com/python-interview-questions-answers-740444cd8897?sk=78d54b3cdfdbbedda9cc09429c71decc)
 
 ### Mathematics Questions ### 
@@ -89,6 +91,8 @@ A curated list of resources to help you prepare for your next data science inter
 * [Mastering A/B Testing: A Real World Bussines Example [Part 1]](https://pub.towardsai.net/mastering-a-b-testing-a-real-world-business-example-part-1-fa0ae3721e43?sk=69f24d50944e5a48b5cdb40ad63d5878)
 * [Mastering A/B Testing: A Real World Bussines Example [Part 2]]()
 * [Statistics Interview Questions & Answers for Data Scientists](https://youssefraafat57.medium.com/statistics-interview-questions-answers-55e2bd13a96b?sk=9d0c46a495f9cac13d691b948e938449)
+* [15 Important Probability Concepts to Review Before Data Science Interview [Part 1]](https://medium.com/@yousefhosni/15-important-probability-concepts-to-review-before-data-science-interview-part-1-bc1742ea7e3e?sk=687140bd08d2f2e70273e2c6be4dc39a)
+* [15 Important Probability Concepts to Review Before Data Science Interview [Part 2]]()
 * [Probability Interview Questions & Answers for Data Scientists](https://youssefraafat57.medium.com/probability-interview-questions-answers-1ee38bd7375d?sk=ad3dd1e34af90dac5505747132b718d5)
 
 
