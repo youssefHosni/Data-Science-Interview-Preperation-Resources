@@ -92,7 +92,7 @@ A curated list of resources to help you prepare for your next data science inter
 * [Mastering A/B Testing: A Real World Bussines Example [Part 2]]()
 * [Statistics Interview Questions & Answers for Data Scientists](https://youssefraafat57.medium.com/statistics-interview-questions-answers-55e2bd13a96b?sk=9d0c46a495f9cac13d691b948e938449)
 * [15 Important Probability Concepts to Review Before Data Science Interview [Part 1]](https://medium.com/@yousefhosni/15-important-probability-concepts-to-review-before-data-science-interview-part-1-bc1742ea7e3e?sk=687140bd08d2f2e70273e2c6be4dc39a)
-* [15 Important Probability Concepts to Review Before Data Science Interview [Part 2]]()
+* [15 Important Probability Concepts to Review Before Data Science Interview [Part 2]](https://medium.com/@yousefhosni/15-important-probability-concepts-to-review-before-data-science-interview-part-2-759ad2bb34a4?sk=b16dafc80e449e4432de9aabf8529558)
 * [Probability Interview Questions & Answers for Data Scientists](https://youssefraafat57.medium.com/probability-interview-questions-answers-1ee38bd7375d?sk=ad3dd1e34af90dac5505747132b718d5)
 
 
