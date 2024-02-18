@@ -62,7 +62,7 @@ A curated list of resources to help you prepare for your next data science inter
 * [Top Large Language Models (LLMs) Interview Questions & Answers](https://levelup.gitconnected.com/top-large-language-models-llms-interview-questions-answers-d7b83f94c4e?sk=ba9875db71eb42aa0c5fa717f2dd7bd0)
 * [Top Computer Vision Interview Questions & Answers [Part 1]](https://levelup.gitconnected.com/top-computer-vision-interview-questions-answers-part-1-7eddf45cfdf7?sk=f0b106cf3aab70fa27f07c61d5bc3965)
 * [Top Computer Vision Interview Questions & Answers [Part 2]](https://levelup.gitconnected.com/top-computer-vision-interview-questions-answers-part-2-107244fc4289?sk=661863bf1a32af631451c9b43bce8868)
-* [Top Computer Vision Interview Questions & Answers [Part 3]]()
+* [Top Computer Vision Interview Questions & Answers [Part 3]](https://levelup.gitconnected.com/top-computer-vision-interview-questions-answers-part-3-1e43909131b2?sk=9a10e41649c4c6a2088903e4d2db2a72)
 
 
 ### SQL Interview Preparation ###
