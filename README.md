@@ -98,5 +98,6 @@ A curated list of resources to help you prepare for your next data science inter
 * [15 Important Probability Concepts to Review Before Data Science Interview [Part 1]](https://medium.com/@yousefhosni/15-important-probability-concepts-to-review-before-data-science-interview-part-1-bc1742ea7e3e?sk=687140bd08d2f2e70273e2c6be4dc39a)
 * [15 Important Probability Concepts to Review Before Data Science Interview [Part 2]](https://medium.com/@yousefhosni/15-important-probability-concepts-to-review-before-data-science-interview-part-2-759ad2bb34a4?sk=b16dafc80e449e4432de9aabf8529558)
 * [Top Important Probability Interview Questions & Answers for Data Scientists [Conceptual Questions]](https://medium.com/gitconnected/top-important-probability-interview-questions-answers-for-data-scientists-conceptual-questions-446e961554b9?sk=5c9d3d17c59b77793415df9d060f3fbd)
+* [Top Important Probability Interview Questions & Answers for Data Scientists [ Mathematical Questions]]()
 
 
