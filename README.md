@@ -55,9 +55,9 @@ A curated list of resources to help you prepare for your next data science inter
 
 ### Machine Learning Questions ###
 
-* [Crack the Machine Learning Coding Questions](https://medium.com/geekculture/crack-the-machine-learning-coding-questions-ac8ecc2af90f?sk=581daa1b5f145f524812c8e586b8763b)
 * [Types of Machine Learning Questions In A Data Science Interview & How To Prepare for Them](https://medium.com/geekculture/types-of-machine-learning-questions-in-a-data-science-interview-how-to-prepare-for-them-1bc815c9421?sk=e4a4c49105668ee56f47c86f6fde1437)
 * [Machine Learning Interview Questions & Answers for Data Scientists](https://youssefraafat57.medium.com/machine-learning-interview-questions-answers-7265e34d07cc?sk=8557ed22c8516d403062e344a1151bd7)
+* [Crack the Machine Learning Coding Questions](https://medium.com/geekculture/crack-the-machine-learning-coding-questions-ac8ecc2af90f?sk=581daa1b5f145f524812c8e586b8763b)
 * [Deep Learning Interview Questions & Answers for Data Scientists](https://youssefraafat57.medium.com/deep-learning-interview-questions-answers-439163d3fc02?sk=d391396d49c7e2cac3048b1ab28760d4)
 * [Top Large Language Models (LLMs) Interview Questions & Answers](https://levelup.gitconnected.com/top-large-language-models-llms-interview-questions-answers-d7b83f94c4e?sk=ba9875db71eb42aa0c5fa717f2dd7bd0)
 * [Top Computer Vision Interview Questions & Answers [Part 1]](https://levelup.gitconnected.com/top-computer-vision-interview-questions-answers-part-1-7eddf45cfdf7?sk=f0b106cf3aab70fa27f07c61d5bc3965)
