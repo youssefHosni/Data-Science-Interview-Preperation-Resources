@@ -76,13 +76,14 @@ A curated list of resources to help you prepare for your next data science inter
 * [6 Free Resources For SQL Interview Preparation](https://medium.com/geekculture/6-free-resources-for-sql-interview-preparation-b184195b28fb?sk=4cc8bf913607ca699ef0872ca1f38558)
 
 ### Programming Questions ### 
-* [5 Python Tips for Acing Data Science Coding Interview](https://levelup.gitconnected.com/5-python-tips-for-acing-data-science-coding-interview-d6c5555035fb?sk=d0e4a3cbc761751b7c90c698a58e7790)
 * [Foundations of Data Structures: Essential Concepts for Data Science Coding Interviews [Part 1]](https://medium.com/gitconnected/foundations-of-data-structures-essential-concepts-for-data-science-coding-interviews-part-1-fc4412ecf008?sk=ba672536815cd227875f9cf14b9d385d)
 * [Foundations of Data Structures: Essential Concepts for Data Science Coding Interviews [Part 2]](https://medium.com/gitconnected/foundations-of-data-structures-essential-concepts-for-data-science-coding-interviews-part-2-cb237ee5f7d3?sk=7cc95df185232a81f3487c20574fad42)
 * [Top Important Python Questions for Data Science Interviews [Conceptual Questions]](https://medium.com/gitconnected/top-important-python-questions-for-data-science-interviews-conceptual-questions-a9875c5c5e7e?sk=f66352536f6cac6313c55a7b98592ca6)
 * [Top Important Python Questions for Data Science Interviews [Data Cleaning and Preprocessing]](https://levelup.gitconnected.com/top-important-python-questions-for-data-science-interviews-data-cleaning-and-preprocessing-aee225186a49?sk=eedd3b88976ca85243929af512977f42)
 * [Top Important Python Questions for Data Science Interviews [Machine & Deep Learning ]](https://levelup.gitconnected.com/top-important-python-questions-for-data-science-interviews-machine-deep-learning-77a784a35d5b?sk=4864e9c88f96bbf87304960deb93d698)
 * [Python Interview Questions & Answers for Data Scientists](https://youssefraafat57.medium.com/python-interview-questions-answers-740444cd8897?sk=78d54b3cdfdbbedda9cc09429c71decc)
+* [5 Python Tips for Acing Data Science Coding Interview](https://levelup.gitconnected.com/5-python-tips-for-acing-data-science-coding-interview-d6c5555035fb?sk=d0e4a3cbc761751b7c90c698a58e7790)
+
 
 ### Mathematics Questions ### 
 
