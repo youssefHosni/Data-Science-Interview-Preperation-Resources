@@ -19,7 +19,7 @@ A curated list of resources to help you prepare for your next data science inter
 * [3 Resources to Get & Pass Your First Data Science Interview](https://medium.com/geekculture/3-resources-to-get-pass-your-first-data-science-interview-6c81045bfe60?sk=6fc787b3e59c7a6adbf6740c1bf31bd2)
 
 
-## Resume & Portoflio Preparation ##
+## Resume & Portfolio Preparation ##
 #### Writing Standing Out Resume ####
 * [How to Build a Data Science Resume That Gets You Interviews?](https://medium.com/geekculture/how-to-build-a-standing-out-resume-that-gets-you-data-science-interviews-a6f2972f4d92?sk=509be71fda26e025bd7f1b97b000011f)
 * [Crafting the Perfect Data Science Resume: 10 Common Mistakes to Steer Clear of](https://medium.com/geekculture/crafting-the-perfect-data-science-resume-10-common-mistakes-to-steer-clear-of-9c85cc0fe562?sk=0931c73cff1a4836566a0a0b2c60d7f7)
