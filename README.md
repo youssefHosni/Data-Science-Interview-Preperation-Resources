@@ -74,6 +74,7 @@ A curated list of resources to help you prepare for your next data science inter
 * [Cracking the SQL Window Function Coding Questions](https://levelup.gitconnected.com/cracking-the-sql-window-function-coding-questions-ac82cb6e4155?sk=69476694ed1eca5f17aaa79cb28255fa)
 * [SQL & Database Interview Questions & Answers for Data Scientists](https://youssefraafat57.medium.com/sql-database-interview-questions-answers-67a93a79a564?sk=f621899beae4eb9093942f3d1289ba6d)
 * [6 Free Resources For SQL Interview Preparation](https://medium.com/geekculture/6-free-resources-for-sql-interview-preparation-b184195b28fb?sk=4cc8bf913607ca699ef0872ca1f38558)
+* [SQL Cheat Sheet for Interview Preparation](https://programiz.pro/resources/sql-cheat-sheet/)
 
 ### Programming Questions ### 
 * [Foundations of Data Structures: Essential Concepts for Data Science Coding Interviews [Part 1]](https://medium.com/gitconnected/foundations-of-data-structures-essential-concepts-for-data-science-coding-interviews-part-1-fc4412ecf008?sk=ba672536815cd227875f9cf14b9d385d)
