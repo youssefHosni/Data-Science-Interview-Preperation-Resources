@@ -52,6 +52,7 @@ A curated list of resources to help you prepare for your next data science inter
 
 ## Technical Interview Preparation  ##
 * [You should Review These Topics Before Data Science Technical Interview](https://medium.com/geekculture/you-should-review-these-topics-before-data-science-technical-interview-fed456b60aea)
+* [Mastering the Data Science Workflow: A Guide for Building Your Technical Skills](https://www.scaler.com/blog/data-science-process/#data-science-process-life-cycle)
 
 ### Machine Learning Questions ###
 
