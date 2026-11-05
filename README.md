@@ -23,6 +23,7 @@ A curated list of resources to help you prepare for your next data science inter
 #### Writing Standing Out Resume ####
 * [How to Build a Data Science Resume That Gets You Interviews?](https://medium.com/geekculture/how-to-build-a-standing-out-resume-that-gets-you-data-science-interviews-a6f2972f4d92?sk=509be71fda26e025bd7f1b97b000011f)
 * [Crafting the Perfect Data Science Resume: 10 Common Mistakes to Steer Clear of](https://medium.com/geekculture/crafting-the-perfect-data-science-resume-10-common-mistakes-to-steer-clear-of-9c85cc0fe562?sk=0931c73cff1a4836566a0a0b2c60d7f7)
+* [JobEmerge](https://www.jobemerge.work) - Freemium job-fit test, resume translator, and Markdown resume editor.
 * [How I Got 15 More Data Science Interviews in One Month?](https://medium.com/geekculture/i-got-15-more-data-science-interviews-with-these-5-tips-87ed03fdcfc7?sk=58484d64c38ee391c3586319b751aa9a)
 
 #### How to Build a Standing Out Portfolio ####
@@ -102,5 +103,6 @@ A curated list of resources to help you prepare for your next data science inter
 * [15 Important Probability Concepts to Review Before Data Science Interview [Part 2]](https://medium.com/@yousefhosni/15-important-probability-concepts-to-review-before-data-science-interview-part-2-759ad2bb34a4?sk=b16dafc80e449e4432de9aabf8529558)
 * [Top Important Probability Interview Questions & Answers for Data Scientists [Conceptual Questions]](https://medium.com/gitconnected/top-important-probability-interview-questions-answers-for-data-scientists-conceptual-questions-446e961554b9?sk=5c9d3d17c59b77793415df9d060f3fbd)
 * [Top Important Probability Interview Questions & Answers for Data Scientists [ Mathematical Questions]](https://levelup.gitconnected.com/top-important-probability-interview-questions-answers-for-data-scientists-mathematical-fa8d9daeb1cf?sk=4891bc9390dfcb6d78096c6c08538edf)
+
 
 
